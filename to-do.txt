@@ -1,5 +1,5 @@
 1)- Pick a colour pallete [x]
-2)- customize waybar []
+2)- customize waybar [x]
 3)- go through hyprland config file and edit things your way []
 4)- customize wofi []
 5)- setup hyprshot [x]
