@@ -4,7 +4,7 @@
     // "position": "bottom", // Waybar position (top|bottom|left|right)
     "height": 30, // Waybar height (to be removed for auto height)
     // "width": 1280, // Waybar width
-    "spacing": 6, // Gaps between modules (4px)
+    "spacing": 5, // Gaps between modules (4px)
     // Choose the order of the modules
     "modules-left": [
         "hyprland/workspaces",
@@ -26,11 +26,12 @@
          "disable-scroll": true,
          "all-outputs": true,
          "warp-on-scroll": false,
-         "format": "{name}: {icon}",
+	 "spacing":2,
+         "format": "{name}:{icon}",
          "format-icons": {
              "urgent": "",
-             "active": "",
-             "default": ""
+             "default": "",
+             "active": ""
          }
      },
     "keyboard-state": {
@@ -199,4 +200,4 @@
 			"hibernate": "systemctl hibernate"
 		}
     }
-}:
+}
