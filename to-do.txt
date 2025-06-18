@@ -1,7 +1,7 @@
 1)- Pick a colour pallete [x]
 2)- customize waybar [x]
 3)- go through hyprland config file and edit things your way [x]
-4)- customize rofi []
+4)- customize rofi [x]
 5)- setup hyprshot [x]
 6)- customize window borders [x]
 7)- choose a wallpaper [x]
