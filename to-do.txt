@@ -1,0 +1,6 @@
+1)- Pick a colour pallete []
+2)- Explore wofi and waybar []
+3)- customize window borders and choose a wallpaper []
+4)- fix animations, make vs code, terminal and other apps opaque []
+5)- customize neofetch and customize your terminal []
+6)- Explore oother tools []
