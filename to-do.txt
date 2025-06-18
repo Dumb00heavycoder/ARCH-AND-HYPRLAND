@@ -6,5 +6,4 @@
 6)- customize window borders [x]
 7)- choose a wallpaper [x]
 8)- make vs code, terminal and other apps translucent [x]
-9)- customize neofetch []
-10)- customize your terminal [x]
+9)- customize your terminal [x]
