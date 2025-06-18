@@ -3,7 +3,7 @@
 3)- go through hyprland config file and edit things your way []
 4)- customize wofi []
 5)- setup hyprshot [x]
-6)- customize window borders 
+6)- customize window borders []
 7)- choose a wallpaper [x]
 8)- make vs code, terminal and other apps opaque []
 9)- customize neofetch []
