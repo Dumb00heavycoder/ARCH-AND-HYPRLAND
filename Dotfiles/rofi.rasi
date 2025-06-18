@@ -1,0 +1,53 @@
+configuration {
+    font: "JetBrainsMono Nerd Font 10";
+    show-icons: true;
+    display-drun: "  Search:";
+    sidebar-mode: false;
+    location: 0;
+    fullscreen: false;
+    lines: 0;
+    columns: 0;
+    padding: 0;
+    fixed-num-lines: true;
+}
+
+*{
+
+    background-color: rgba(173, 168, 168, 0.97);  
+
+    normal-background: rgba(173, 168, 168, 0.97);       
+    normal-foreground: rgba(0, 0, 0, 1.0);
+    alternate-normal-background:rgba(173, 168, 168, 0.97);
+    alternate-normal-foreground: rgba(0, 0, 0, 1.0);              
+    selected-normal-background: rgba(0, 0, 0, 0.97);  
+    selected-normal-foreground: rgba(255, 255, 255, 0.97);
+}
+
+
+window {
+    padding: 0px;
+    border: 0px;
+    border-radius: 0px;
+    width: 400px;
+}
+
+mainbox {
+    padding: 8px;
+}
+
+listview {
+    lines: 4;
+    columns: 1;
+    spacing: 4;
+    padding: 7;
+}
+
+element {
+    background-color: rgba(173, 168, 168, 0.97);
+    text-color: rgba(0, 0, 0, 1.0);               
+}
+
+element selected {
+    text-color: rgba(0, 0, 0, 1.0);
+    background-color: rgba(173, 168, 168, 0.97);
+}
